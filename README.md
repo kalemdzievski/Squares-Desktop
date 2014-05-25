@@ -1,9 +1,13 @@
 ![alt tag](https://raw.githubusercontent.com/kalemdzievski/Squares/master/Resources/Buttons%20&%20logos/squares%20transparent.png)
 =======
 
-Simple game made in c# (Visual Studio)<br>
+Download
+=======
 [Download the setup here](https://github.com/kalemdzievski/Squares/blob/master/Squares%20Setup/Squares.msi?raw=true)
 
+Description
+=======
+Simple game made in c# (Visual Studio)<br>
 ![alt tag](https://raw.githubusercontent.com/kalemdzievski/Squares/master/Resources/Buttons%20&%20logos/Squares1.jpg)
 
 Squares is a simple game where the main goal is to make lines of 3 squares, and get points. If you make a line of 3 squares you will get 100 points, or if you don’t make a line 5 new squares I 5 random colors will appear on the screen.  So at the beginning there are 5 colors, and 5 squares are added if no you don’t make a line. Also there is timer, with countdown of 2 minutes. When the countdown is over new color is added and the number of squares added if you don’t make a line is increased by one. The maximum number of colors and squares added is 8.<br><br>
